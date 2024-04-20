@@ -22,6 +22,7 @@ struct GalleryView: View {
         gridLayout = Array(repeating: .init(.flexible()), count: Int(gridColumn))
     }
     
+    @available(macCatalyst 17.0, *)
     var body: some View {
         ScrollView(.vertical, showsIndicators: false) {
             //Mark: - Grid
