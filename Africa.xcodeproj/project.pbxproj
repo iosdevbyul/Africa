@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		1C151EFF2BD3A729002A93A6 /* NationalParkLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C151EFE2BD3A729002A93A6 /* NationalParkLocation.swift */; };
 		1C151F022BD3AF60002A93A6 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C151F012BD3AF60002A93A6 /* MapAnnotationView.swift */; };
+		1C151F042BD3B374002A93A6 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C151F032BD3B374002A93A6 /* MotionAnimationView.swift */; };
 		1C9B19E62BCE9F5D00E047C1 /* AfricaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C9B19E52BCE9F5D00E047C1 /* AfricaApp.swift */; };
 		1C9B19E82BCE9F5D00E047C1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C9B19E72BCE9F5D00E047C1 /* ContentView.swift */; };
 		1C9B19EA2BCE9F5F00E047C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C9B19E92BCE9F5F00E047C1 /* Assets.xcassets */; };
@@ -51,6 +52,7 @@
 /* Begin PBXFileReference section */
 		1C151EFE2BD3A729002A93A6 /* NationalParkLocation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NationalParkLocation.swift; sourceTree = "<group>"; };
 		1C151F012BD3AF60002A93A6 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
+		1C151F032BD3B374002A93A6 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		1C9B19E22BCE9F5D00E047C1 /* Africa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Africa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C9B19E52BCE9F5D00E047C1 /* AfricaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AfricaApp.swift; sourceTree = "<group>"; };
 		1C9B19E72BCE9F5D00E047C1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -207,6 +209,7 @@
 				1CB4D0A42BCEC35000B4A2D3 /* ExternalWeblinkView.swift */,
 				1C151F002BD3AF49002A93A6 /* Video */,
 				1C151F012BD3AF60002A93A6 /* MapAnnotationView.swift */,
+				1C151F032BD3B374002A93A6 /* MotionAnimationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -343,6 +346,7 @@
 				1CB4D0A92BD397D400B4A2D3 /* VideoListItemView.swift in Sources */,
 				1C151EFF2BD3A729002A93A6 /* NationalParkLocation.swift in Sources */,
 				1C9B1A232BCEB0AD00E047C1 /* CodableBundleExtension.swift in Sources */,
+				1C151F042BD3B374002A93A6 /* MotionAnimationView.swift in Sources */,
 				1CB4D09D2BCEBBF400B4A2D3 /* HeadingView.swift in Sources */,
 				1CB4D0AB2BD39D1000B4A2D3 /* VideoPlayerView.swift in Sources */,
 			);
